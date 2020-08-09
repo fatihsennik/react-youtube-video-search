@@ -4,6 +4,8 @@ import youtube from "../apis/youtube";
 import VideoList from "./VideoList";
 import VideoDetail from "../VideoDetail";
 
+
+//Key Generated for only this github account. Please get your new api key at google console.
 const KEY = "AIzaSyCYGrzdZa9xVJzPM2DvAuatwhOX2iDA-rU";
 
 class App extends React.Component {
