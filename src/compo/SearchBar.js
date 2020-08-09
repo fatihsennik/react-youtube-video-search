@@ -33,7 +33,7 @@ class SearchBar extends React.Component {
                         </div>
                         <div className="five wide field">
                             <GitHubButton data-icon="octicon-star" data-size="large" data-show-count="true"
-                                          href="https://github.com/senniksoft/react-copyright-free-image-searching-by-Unsplash-API">Giving
+                                          href="https://github.com/senniksoft/react-youtube-video-search">Giving
                                 Star
                                 helps your brother :)
                             </GitHubButton>

@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "author": "Fatih Şennik <info@fatihsennik.com> (https://senniksoft.com)",
-  "homepage": ".",
+  "homepage": "https://senniksoft.github.io/react-youtube-video-search/",
   "license": "MIT",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
