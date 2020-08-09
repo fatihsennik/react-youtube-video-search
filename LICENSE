@@ -1,25 +1,3 @@
-# React Video searching by Youtube Api
-
-Online Demo:  https://senniksoft.github.io/react-youtube-video-search/
-
-#  Demo Gif
-
-![](https://github.com/senniksoft/react-youtube-video-search/blob/master/demo.gif)
-
-
-#  Libs used!
-  - Built with [Semantic-ui](https://semantic-ui.com/)!
-  - Javascript Library with [React](https://reactjs.org/)! 
-  - HTML-5!
-  - Getting Video Data by [Youtube Api ](https://youtube.com/)! 
-  
-
-## Author
-
-* **Fatih Şennik**
-
-License
-----
 MIT License
 
 Copyright (c) 2020 Fatih Şennik
@@ -41,5 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-**Free Software [Senniksoft.com](http://www.senniksoft.com/)**
