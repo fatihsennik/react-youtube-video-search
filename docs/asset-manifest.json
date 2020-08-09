@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-youtube-video-search/static/css/main.3aad5cf6.chunk.css",
+    "main.js": "/react-youtube-video-search/static/js/main.977bc973.chunk.js",
+    "main.js.map": "/react-youtube-video-search/static/js/main.977bc973.chunk.js.map",
+    "runtime-main.js": "/react-youtube-video-search/static/js/runtime-main.1a53c313.js",
+    "runtime-main.js.map": "/react-youtube-video-search/static/js/runtime-main.1a53c313.js.map",
+    "static/js/2.4ae81b59.chunk.js": "/react-youtube-video-search/static/js/2.4ae81b59.chunk.js",
+    "static/js/2.4ae81b59.chunk.js.map": "/react-youtube-video-search/static/js/2.4ae81b59.chunk.js.map",
+    "index.html": "/react-youtube-video-search/index.html",
+    "precache-manifest.a651b0f4f339cfb12c0f2a9f6983117f.js": "/react-youtube-video-search/precache-manifest.a651b0f4f339cfb12c0f2a9f6983117f.js",
+    "service-worker.js": "/react-youtube-video-search/service-worker.js",
+    "static/css/main.3aad5cf6.chunk.css.map": "/react-youtube-video-search/static/css/main.3aad5cf6.chunk.css.map",
+    "static/js/2.4ae81b59.chunk.js.LICENSE.txt": "/react-youtube-video-search/static/js/2.4ae81b59.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a53c313.js",
+    "static/js/2.4ae81b59.chunk.js",
+    "static/css/main.3aad5cf6.chunk.css",
+    "static/js/main.977bc973.chunk.js"
+  ]
+}
