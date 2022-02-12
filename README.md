@@ -1,10 +1,10 @@
 # React Video searching by Youtube Api
 
-Online Demo:  https://senniksoft.github.io/react-youtube-video-search/
+Online Demo:  https://fatihsennik.github.io/react-youtube-video-search/
 
 #  Demo Gif
 
-![](https://github.com/senniksoft/react-youtube-video-search/blob/master/demo.gif)
+![](https://github.com/fatihsennik/react-youtube-video-search/blob/master/demo.gif)
 
 
 #  Libs used!
